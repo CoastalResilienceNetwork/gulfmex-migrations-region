@@ -1,8 +1,16 @@
 {
-  "plugins": [
-	{
-      "repo": "regional-planning",
-      "name": "regional-planning"
-    }    
-  ]
+    "plugins": [
+        {
+        	"repo": "regional-planning",
+            "name": "boston"
+        },
+        {
+        	"repo": "regional-planning",
+            "name": "bridgeport"
+        },
+        {
+            "repo": "regional-planning",
+            "name": "regional-planning"
+        }
+    ]
 }
