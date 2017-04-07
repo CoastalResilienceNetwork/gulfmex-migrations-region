@@ -40,9 +40,9 @@
     ],
     "pluginOrder": [
         "natural_defenses",
+        "cities",
         "boston",
         "bridgeport",
-        "regional-planning",
 		    "zoom_to",
         "measure",
         "legend_display",
@@ -66,9 +66,9 @@
             "description": "A prototype mapping application for assessing flood and climate projections, and identifying natural solutions that reduce risk",
             "plugins": [
                 {
-                    "title": "<img src='img/cities.png' hspace=10>Natural Defense Projects",
+                    "title": "<img src='img/cities.png' hspace=10>City projects",
                     "description": "Discover green infrastructure projects around the world",
-                    "pluginName": "natural_defenses"
+                    "pluginName": "cities"
                 },
                 {
                     "title": "<img src='img/boston.png' hspace=10>Boston",
