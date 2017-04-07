@@ -62,28 +62,23 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Atlas of Ocean Wealth",
-            "description": "<p>Ocean Wealth provides a way to calculate and describe in quantitative and spatial terms all that the ocean does for us to support smart investments and decision-making</p><br><center><img src='img/tnc1.png' hspace=20>&nbsp<img src='img/boston_univ_rgb.jpg' hspace=20>&nbsp<img src='img/NOAA_logo_color_broadcast2.jpg' hspace=20>&nbsp<img src='img/CC-PLC-color2.jpg' hspace=20>&nbsp<img src='img/FERU-logo.jpg' hspace=20>&nbsp<img src='img/UBO-Hor.png' hspace=20>&nbsp<img src='img/wcs-logo.jpg' hspace=20>&nbsp<img src='img/WRI.png' hspace=20>&nbsp<img src='img/BS2.jpg' hspace=20></center>",
+            "title": "Resilient Cities",
+            "description": "A prototype mapping application for assessing flood and climate projections, and identifying natural solutions that reduce risk",
             "plugins": [
                 {
-                    "title": "<img src='img/natural_coastal_protection.png' hspace=10>Natural Coastal Protection",
-                    "description": "Discover the coastal protection benefits of coral reefs around the world",
-                    "pluginName": "natural_coastal_protection"
+                    "title": "<img src='img/cities.png' hspace=10>Natural Defense Projects",
+                    "description": "Discover green infrastructure projects around the world",
+                    "pluginName": "natural_defenses"
                 },
                 {
-                    "title": "<img src='img/coral_reef_fisheries.png' hspace=10>Coral Reef Fisheries",
-                    "description": "Learn about the status of Micronesian fisheries",
-                    "pluginName": "coral-reef-fisheries"
+                    "title": "<img src='img/boston.png' hspace=10>Boston",
+                    "description": "Climate Ready Boston",
+                    "pluginName": "boston"
                 },
                 {
-                    "title": "<img src='img/recreation_tourism.png' hspace=10>Recreation and Tourism",
-                    "description": "Explore the value of healthy ecosystems to the tourism industry",
-                    "pluginName": "recreation-tourism"
-                },
-                {
-                    "title": "<img src='img/blue_carbon.png' hspace=10>Blue Carbon",
-                    "description": "Investigate the power of mangrove ecosystems to store carbon",
-                    "pluginName": "blue-carbon"
+                    "title": "<img src='img/bridgeport.png' hspace=10>Bridgeport",
+                    "description": "Greening the Edge",
+                    "pluginName": "bridgeport"
                 }
             ]
         },
