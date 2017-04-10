@@ -1,57 +1,76 @@
 [
     {
-        "displayName": "Regional Data",
+        "displayName": "Bridgeport, CT",
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/OceanWealth",
-            "name": "Ocean_Wealth",
+            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Cities",
+            "name": "Cities",
             "reportGpUrl": "http://dev.services2.coastalresilience.org/arcgis/rest/services/DrawAndReport/getDrawAndReportDataMultiUnits/GPServer/getDrawAndReportDataMultiUnits",
-            "reportDbPath": "oceanwealth.gdb" 
+            "reportDbPath": "un_global.gdb" 
         },
         "includeLayers": [
             {
-                "name": "Lesser Sunda Ecoregion Modeled Fish Biomass",
-                "displayName": "Lesser Sunda Ecoregion Modeled Fish Biomass",
-                "includeAllLayers": true,
-                "opacity": 1
+                "name": "Bridgeport city boundary",
+                "displayName": "Bridgeport City Boundary"
             },
             {
-                "name": "USA Current Biomass Production Due To Oyster Reefs (Tonnes)",
-                "displayName": "USA Current Biomass Production Due To Oyster Reefs (Tonnes)",
-                "opacity": 1
-            }
-        ]
-    },
-    {
-        "displayName": "Global Data",
-        "server": {
-            "type": "ags",
-            "layerType": "dynamic",
-            "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/OceanWealth",
-            "name": "Ocean_Wealth",
-            "reportGpUrl": "http://dev.services2.coastalresilience.org/arcgis/rest/services/DrawAndReport/getDrawAndReportDataMultiUnits/GPServer/getDrawAndReportDataMultiUnits",
-            "reportDbPath": "oceanwealth.gdb" 
-        },
-        "includeLayers": [
-            {
-                "name": "Modeled Value of Mangrove Fisheries",
-                "displayName": "Modeled Value of Mangrove Fisheries",
-                "opacity": 1
+                "name": "Bridgeport census blocks",
+                "displayName": "Bridgeport Census Blocks"
             },
             {
-                "name": "Global Fish Biomass On Coral Reefs",
-                "displayName": "Global Fish Biomass On Coral Reefs",
-                "opacity": 1,
-                    "reportDbLayerName": "MOW_Global_Reef_FishBiomass",
-                    "reports": [
-                    {
-                        "display": "Area of Interest",
-                        "units": "sq km",
-                        "field": ""
-                    }
-                ]
+                "name": "Low to moderate income population (LMI)",
+                "displayName": "Low to Moderate Income Population (LMI)"
+            },
+            {
+                "name": "Areas with highest percent dependents (under 18)",
+                "displayName": "Highest Percent Dependents (under 18)",
+                "includeAllLayers": true
+            },
+            {
+                "name": "Areas of highest impervious cover",
+                "displayName": "Highest Impervious Cover"
+            },
+            {
+                "name": "Vacant lots",
+                "displayName": "Vacant Lots"
+            },
+            {
+                "name": "Highest asthma rates",
+                "displayName": "Highest Asthma Rates"
+            },
+            {
+                "name": "Current tree canopy (2016)",
+                "displayName": "Tree Canopy (2016)"
+            },
+            {
+                "name": "Potential tree canopy",
+                "displayName": "Potential Tree Canopy"
+            },
+            {
+                "name": "FEMA flood claims",
+                "displayName": "FEMA Flood Claims"
+            },
+            {
+                "name": "Walkshed analysis",
+                "displayName": "Walkshed Analysis",
+                "includeAllLayers": true
+            },
+            {
+                "name": "Air Quality Target Areas",
+                "displayName": "Air Quality Target Areas"
+            },
+            {
+                "name": "Flood Risk Target Areas",
+                "displayName": "Flood Risk Target Areas",
+                "includeAllLayers": true
+            },
+            {
+                "name": "Final Intersection (Air Quality and Flood Risk Target Areas)",
+                "displayName": "Intersection of Air Quality and Flood Risk Target Areas"
             }
         ]
     }
 ]
+
+
