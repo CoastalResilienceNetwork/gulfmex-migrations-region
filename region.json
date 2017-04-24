@@ -81,8 +81,7 @@
                     "description": "Greening the Edge",
                     "pluginName": "bridgeport"
                 }
-            ]
-        },
+            ],
             "scenarios": [
                 {
                     "title": "<img src='img/regional_planning.png' hspace=10>Martha's Vineyard",
@@ -98,3 +97,4 @@
             }
         ]
     }
+}
