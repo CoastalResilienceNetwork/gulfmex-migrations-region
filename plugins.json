@@ -13,10 +13,6 @@
             "name": "bridgeport"
         },
         {
-        	"repo": "regional-planning",
-            "name": "marthas_vineyard"
-        },
-        {
             "repo": "regional-planning",
             "name": "cities"
         }
