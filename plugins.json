@@ -13,8 +13,8 @@
             "name": "bridgeport"
         },
         {
-            "repo": "regional-planning",
-            "name": "cities"
+            "repo": "filterSelect",
+            "name": "projectSelector"
         }
     ]
 }
