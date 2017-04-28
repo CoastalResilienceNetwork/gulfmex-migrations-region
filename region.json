@@ -68,7 +68,7 @@
                 {
                     "title": "<img src='img/cities.png' hspace=10>City projects",
                     "description": "Discover green infrastructure projects around the world",
-                    "pluginName": "cities"
+                    "pluginName": "projectSelector"
                 },
                 {
                     "title": "<img src='img/boston.png' hspace=10>Boston",
