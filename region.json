@@ -38,10 +38,9 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-        "projectSelector",
-        "natural_defenses",
         "boston",
         "bridgeport",
+        "natural_defenses",
         "regional-planning",
 		"zoom_to",
         "measure",
@@ -66,9 +65,9 @@
             "description": "A prototype mapping application for assessing flood and climate projections, and identifying natural solutions that reduce risk",
             "plugins": [
                 {
-                    "title": "<img src='img/cities.png' hspace=10>City projects",
+                    "title": "<img src='img/natural_defenses.png' hspace=10>Natural Defense projects",
                     "description": "Discover green infrastructure projects around the world",
-                    "pluginName": "projectSelector"
+                    "pluginName": "natural_defenses"
                 },
                 {
                     "title": "<img src='img/boston.png' hspace=10>Boston",

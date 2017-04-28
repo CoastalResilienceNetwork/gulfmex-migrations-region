@@ -11,10 +11,6 @@
         {
         	"repo": "regional-planning",
             "name": "bridgeport"
-        },
-        {
-            "repo": "filterSelect",
-            "name": "projectSelector"
         }
     ]
 }
