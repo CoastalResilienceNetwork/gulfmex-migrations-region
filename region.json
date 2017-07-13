@@ -1,8 +1,8 @@
 {
     "googleAnalyticsPropertyId": "7401895-16",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Cities", "url": "" },
-    "titleDetail": { "text": "Building Resilient Communities", "url": "" },
+    "titleMain": { "text": "Shell", "url": "" },
+    "titleDetail": { "text": "Migratory Species", "url": "" },
     "headerLinks": [
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
         { "text": "Legal Disclosure", "url": "http://coastalresilience.org/terms-of-use/" }
@@ -27,22 +27,17 @@
         55
     ],
     "basemaps": [
+        { "name": "Ocean"              , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/Ocean_Basemap/MapServer" },
         { "name": "Basic"              , "url": "http://services.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Light_Gray_Base/MapServer" },
         { "name": "Basic Dark Gray"    , "url": "http://server.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer"},
         { "name": "National Geographic", "url": "http://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer" },
         { "name": "Topographic"        , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer" },
-        { "name": "Ocean"              , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/Ocean_Basemap/MapServer" },
         { "name": "Imagery"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" },
         { "name": "Shaded Relief"      , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Shaded_Relief/MapServer" },
         { "name": "Streets"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer" },
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-        "projectSelector",
-        "boston",
-        "bridgeport",
-        "natural_defenses",
-        "regional-planning",
 		"zoom_to",
         "measure",
         "legend_display",
@@ -55,50 +50,21 @@
        "headerLogoPath": "http://maps.coastalresilience.org/network/img/TNCLogoPrimary_RGB2.jpg"
     },
     "colors": {
-       "primary": "#C95D28",
-       "secondary": "#E6B12B",
+        "primary": "#22497A",
+       "secondary": "#3A72B9",
        "tertiary": "#333333",
        "active": "#0096D6"
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Resilient Cities",
-            "description": "A prototype mapping application for assessing flood and climate projections, and identifying natural solutions that reduce risk",
+            "title": "Shell",
+            "description": "Add a description of the site when using more than one app.",
             "plugins": [
                 {
-                    "title": "<img src='img/cities.png' hspace=10>Resilient Cities projects",
-                    "description": "Comparison green infrastrucutre across cities",
-                    "pluginName": "projectSelector"
-                },
-                {
-                    "title": "<img src='img/boston.png' hspace=10>Boston",
-                    "description": "Climate Ready Boston",
-                    "pluginName": "boston"
-                },
-                {
-                    "title": "<img src='img/bridgeport.png' hspace=10>Bridgeport",
-                    "description": "Greening the Edge",
-                    "pluginName": "bridgeport"
-                },
-                {
-                    "title": "<img src='img/natural_defenses.png' hspace=10>Natural Defense projects",
-                    "description": "Discover green infrastructure projects around the world",
-                    "pluginName": "natural_defenses"
+                    "title": "Migratory Species",
+                    "description": "Add a description of what the app does here.",
+                    "pluginName": "migratorySpecies"
                 }
-            ],
-            "scenarios": [
-                {
-                    "title": "<img src='img/regional_planning.png' hspace=10>Martha's Vineyard",
-                    "description": "Preliminary data to examine",
-                    "saveCode": "eyJzY3JlZW4iOsSAc3BsaXRTxIPEhcSHOm51bGwsxIF5bmNNYXBzxIhmYWxzZX3EmW3EnzDEiMSAZXh0xIZ0xK0idHlwZcSIIsSvxLFuxLPEmXhtacSTLTc4ODM4NDkuMzI2MsWONDA0xJl5xYLEkzUwNTc1OcWMMzY1MsWPMzkyxYDEqnjEiMWFxYrFpsWLLjE5NzQ2xZ05NsWWxarEiMWaxYgxMsWgxY7FtsWhxZs1xJnEi2F0acSkUmVmZcSExJzEucSJIndraWTEiDEwMsabMMSZbMaJZXN0V8aXxpk6xYnFnH3EqMSBZWxlY8SxZEJhxKbEqnBJbmTEr8SIMMatcGFuZcSsxpTHgceDTnVtYsaQxr7Gh3TGok9mUGx1Z8WDxKHGlMSmxrDGsmVkx5THlsWDxLrEjMehbnMvxITHl29uxKQtxIzHgm7Fg2cixJnHpMeXx6bEtMe2x5jHqGXHqsesbMeuxqFux7Fux7PGlMahecaQx5nEgGN1csaRdMaNx77EiMSVxJfEmWZpbMSxclTEvMS6x7TGrsecxrNMYciJcseZW13EmcSvx4fGvGTIpMimyKgixJ5ydGhhJ3MgVsWDZXlhcmQsIE1ByKDItMi2yLjIusi8x4PIv8mByYPJhS9Bc8SmyZTHnsi7xKR1xqMiyKoiyIjGkE/HgWPEjnnEiMipxJnFg2ZvQm94yLDGkEnGqMiVbMatZHJhd8aNcG/ItcS0yYBlYceSxrrIm8ajxLPElMSWybTGrMqK"
-                }
-            ],
-            "partners": [
-                {
-                    "logoPath": "img/TNCLogoPrimary_RGB.png",
-                    "link": "http://nature.org",
-                    "title": "The Nature Conservancy"
-            }
-        ]
+            ]
     }
 }
