@@ -1,24 +1,8 @@
 {
     "plugins": [
         {
-            "repo": "regional-planning",
-            "name": "regional-planning"
-        },
-        {
-        	"repo": "regional-planning",
-            "name": "boston"
-        },
-        {
-        	"repo": "regional-planning",
-            "name": "bridgeport"
-        },
-        {
-            "repo": "filterSelect",
-            "name": "projectSelector"
-        },
-        {
-            "repo": "natural_defenses",
-            "name": "natural_defenses"
+            "repo": "migratorySpecies",
+            "name": "migratorySpecies"
         }
     ]
 }
