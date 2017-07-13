@@ -1,8 +1,9 @@
 {
-  "plugins": [
-	{
-      "repo": "regional-planning",
-      "name": "regional-planning"
-    }    
-  ]
+    "plugins": [
+        {
+            "repo": "migratorySpecies",
+            "name": "migratorySpecies"
+        }
+    ]
 }
+ 
