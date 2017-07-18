@@ -1,8 +1,8 @@
 {
     "plugins": [
         {
-            "repo": "migratorySpecies",
-            "name": "migratorySpecies"
+            "repo": "migratory-blueways",
+            "name": "migratory-blueways"
         }
     ]
 }
