@@ -61,9 +61,9 @@
             "description": "",
             "plugins": [
                 {
-                    "title": "Migratory Species",
+                    "title": "Migratory Blueways",
                     "description": "Click Go to get started",
-                    "pluginName": "migratorySpecies"
+                    "pluginName": "migratory-blueways"
                 }
             ]
     }
