@@ -57,12 +57,12 @@
     },
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "Shell",
-            "description": "Add a description of the site when using more than one app.",
+            "title": "Migratory Blueways",
+            "description": "",
             "plugins": [
                 {
                     "title": "Migratory Species",
-                    "description": "Add a description of what the app does here.",
+                    "description": "Click Go to get started",
                     "pluginName": "migratorySpecies"
                 }
             ]
