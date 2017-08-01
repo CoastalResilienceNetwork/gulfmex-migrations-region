@@ -58,7 +58,7 @@
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "identifyEnabled": true,
     "launchpad": {
-            "title": "Migratory Blueways",
+            "title": "Conservation and Migratory Blueways",
             "description": "",
             "plugins": [
                 {
