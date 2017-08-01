@@ -1,7 +1,7 @@
 {
     "googleAnalyticsPropertyId": "7401895-16",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Migratory Blueways", "url": "" },
+    "titleMain": { "text": "Conservation Blueways", "url": "" },
     "titleDetail": { "text": "", "url": "" },
     "headerLinks": [
         { "text": "The Nature Conservancy", "url": "http://nature.org/marine/" },
@@ -62,9 +62,14 @@
             "description": "",
             "plugins": [
                 {
-                    "title": "Migratory Blueways",
-                    "description": "Click Go to get started",
+                    "title": "<img src='img/migratory_blueways.png' hspace=10>Migratory Blueways",
+                    "description": "short text description here",
                     "pluginName": "migratory-blueways"
+                },
+                {
+                    "title": "<img src='img/regional_marine_planning.png' hspace=10>Regional Marine Planning",
+                    "description": "short text description here",
+                    "pluginName": "regional-planning"
                 }
             ],
             "partners": [
