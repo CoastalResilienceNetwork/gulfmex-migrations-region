@@ -59,7 +59,7 @@
     "identifyEnabled": true,
     "launchpad": {
             "title": "Conservation and Migratory Blueways",
-            "description": "",
+            "description": "The Conservation Blueways Decision Support Tool offers a wide range of information about ocean resources and management. The various apps and spatial data layers available through this mapping portal are valuable tools for enhancing biodiversity and ecosystem-based management, and reducing adverse impacts of human activity in the ocean. These resources may serve to support decision-making by marine scientists, planners, resource managers, commercial and recreational fishermen, and many other industries using the ocean. Spatial data is available pertaining to species distributions and conservation status, international and federal boundaries, habitats and environmental conditions, managed areas, migratory species, fishing regulations, marine and coastal habitats, human activities, and more.",
             "plugins": [
                 {
                     "title": "<img src='img/migratory_blueways.png' hspace=10>Migratory Blueways",
