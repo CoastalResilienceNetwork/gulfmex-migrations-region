@@ -5,11 +5,11 @@
             "type": "ags",
             "layerType": "dynamic",
             "url": "http://dev.services2.coastalresilience.org/arcgis/rest/services/Gulf_of_Mexico",
-            "name": "Migratory_Species"
+            "name": "Conservation_Blueways"
         },
         "includeLayers": [
 			{
-				"name" : "Environmental Data",
+				"name" : "Regional Data",
 				"includeAllLayers" : true
 			},
 			{
