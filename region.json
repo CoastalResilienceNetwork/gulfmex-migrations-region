@@ -11,7 +11,7 @@
     "regionLinks": [
             { "text": "Gulf of Mexico Coastal Resilience", "url": "http://maps.coastalresilience.org/gulfmex/" },
             { "text": "Louisiana Freshwater Network", "url": "http://maps.freshwaternetwork.org/louisiana/" },
-                        { "text": "Louisiana Freshwater Network", "url": "http://maps.freshwaternetwork.org/mississippi/" }
+            { "text": "Mississippi Freshwater Network", "url": "http://maps.freshwaternetwork.org/mississippi/" }
     ],
     "initialExtent": [
         -130,
