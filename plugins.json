@@ -1,8 +1,11 @@
 {
     "plugins": [
         {
-            "repo": "migratorySpecies",
-            "name": "migratorySpecies"
+            "repo": "migratory-blueways",
+            "name": "migratory-blueways"
+        },
+        {   "repo": "regional-planning",
+            "name": "regional-planning"
         }
     ]
 }
