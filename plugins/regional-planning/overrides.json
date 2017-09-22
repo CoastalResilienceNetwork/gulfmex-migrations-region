@@ -3,5 +3,6 @@
     "width": 400,
     "resizable": false,
     "hasCustomPrint": true,
-    "name": "Regional Marine Planning"
+    "name": "Regional Marine Planning",
+    "description": "Regional Marine Planning"
 }
