@@ -59,6 +59,11 @@
                     "description": "Which species migrate through various oil and gas planning and use areas, when do they migrate, and what is their conservation status?",
                     "pluginName": "migratory-blueways"
                 },
+		{
+                    "title": "<img src='img/migratory_blueways.png' hspace=10>Tuna Fisheries",
+                    "description": "Tuna Fisheries description",
+                    "pluginName": "tuna-fisheries"
+                },
                 {
                     "title": "<img src='img/regional_marine_planning.png' hspace=10>Regional Marine Planning",
                     "description": "What additional environmental, species, regulatory, habitat, and human activity spatial data is available?",
