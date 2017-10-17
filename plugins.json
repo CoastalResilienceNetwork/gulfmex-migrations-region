@@ -4,6 +4,10 @@
             "repo": "migratory-blueways",
             "name": "migratory-blueways"
         },
+        {
+            "repo": "tuna-fisheries",
+            "name": "tuna-fisheries"
+        },
         {   "repo": "regional-planning",
             "name": "regional-planning"
         }
