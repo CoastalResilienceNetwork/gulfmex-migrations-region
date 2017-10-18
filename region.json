@@ -60,8 +60,8 @@
                     "pluginName": "migratory-blueways"
                 },
 		{
-                    "title": "<img src='img/migratory_blueways.png' hspace=10>Tuna Fisheries",
-                    "description": "Tuna Fisheries description",
+                    "title": "<img src='img/Tuna_Fisheries.png' hspace=10>Tuna Fisheries",
+                    "description": "Where are various migratory tuna species present, and what fishing regulations exist on these tuna in the Gulf of Mexico?",
                     "pluginName": "tuna-fisheries"
                 },
                 {
