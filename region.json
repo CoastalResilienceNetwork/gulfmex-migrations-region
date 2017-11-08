@@ -59,6 +59,11 @@
                     "description": "Which species migrate through various oil and gas planning and use areas, when do they migrate, and what is their conservation status?",
                     "pluginName": "migratory-blueways"
                 },
+		{
+                    "title": "<img src='img/Tuna_Fisheries.png' hspace=10>Tuna Fisheries",
+                    "description": "Where are various migratory tuna species present, and what fishing regulations exist on these tuna in the Gulf of Mexico?",
+                    "pluginName": "tuna-fisheries"
+                },
                 {
                     "title": "<img src='img/regional_marine_planning.png' hspace=10>Regional Marine Planning",
                     "description": "What additional environmental, species, regulatory, habitat, and human activity spatial data is available?",
