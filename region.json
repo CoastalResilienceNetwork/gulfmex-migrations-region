@@ -31,11 +31,13 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-		"zoom_to",
+	"migratory-blueways",
+	"tuna-fisheries",
+	"regional-planning",
+	"zoom_to",
         "measure",
         "legend_display",
         "full_extent"
-    
     ],
     "print": {
        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
