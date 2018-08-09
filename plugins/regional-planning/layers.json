@@ -10,7 +10,39 @@
         "includeLayers": [
 			{
 				"name" : "Regional Data",
-				"includeAllLayers" : true
+				"includeLayers": [
+                    {
+                        "name": "Jurisdictions",
+                        "includeAllLayers" : true
+                    },
+                    {
+                        "name": "Protected and Managed Areas",
+                        "includeAllLayers" : true
+                    },
+                    {
+                        "name": "Oil and Gas",
+                        "includeAllLayers" : true
+                    },
+                    {
+                        "name": "Environmental",
+                        "includeAllLayers" : true
+                    },
+                    {
+                        "name": "Habitat",
+                        "includeAllLayers" : true
+                    },
+                    {
+                        "name": "Human Activity",
+                        "includeLayers": [
+                        	{
+                        		"name":"Fishing Vessel Density (2013)"
+                        	},
+                        	{
+                        		"name":"Tanker Vessel Density (2013)"
+                        	}
+      					 ]
+                    }
+             	]
 			},
 			{
 				"name" : "Fish",
