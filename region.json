@@ -53,7 +53,7 @@
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "identifyEnabled": true,
     "launchpad": {
-            "title": "Conservation for Migratory Blueways",
+            "title": "Marine Conservation",
             "description": "The Blueways Conservation Decision Support Tool offers a wide range of information about ocean resources and management. The focused apps and extensive spatial layers available are valuable tools for enhancing biodiversity, ecosystem-based management, and healthy human activity in the ocean. These resources may serve to support decision-making by marine planners, resource managers, commercial and recreational fishermen, and many other industries using the ocean.",
             "infographic": {
             "width": 900,
@@ -62,17 +62,17 @@
             "plugins": [
                 {
                     "title": "<img src='img/migratory_blueways.png' hspace=10>Energy Planning",
-                    "description": "Which species migrate through various oil and gas planning and use areas, when do they migrate, and what is their conservation status?",
+                    "description": "Which species migrate through various oil and gas planning and use areas, when do they migrate, and what is their conservation status? Energy Planning app, Blueways Conservation Decision Support Tool. The Nature Conservancy, November 2017.",
                     "pluginName": "migratory-blueways"
                 },
 		{
                     "title": "<img src='img/Tuna_Fisheries.png' hspace=10>Tuna Fisheries",
-                    "description": "Where are various migratory tuna species present, and what fishing regulations exist on these tuna in the Gulf of Mexico?",
+                    "description": "Where are various migratory tuna species present, and what fishing regulations exist on these tuna in the Gulf of Mexico? Tuna Fisheries app, Blueways Conservation Decision Support Tool. The Nature Conservancy, November 2017.",
                     "pluginName": "tuna-fisheries"
                 },
                 {
                     "title": "<img src='img/regional_marine_planning.png' hspace=10>Regional Marine Planning",
-                    "description": "What additional environmental, species, regulatory, habitat, and human activity spatial data is available?",
+                    "description": "What additional environmental, species, regulatory, habitat, and human activity spatial data is available? Regional Planning app, Blueways Conservation Decision Support Tool. The Nature Conservancy, November 2017.",
                     "pluginName": "regional-planning"
                 }
             ],
@@ -108,11 +108,6 @@
                     "title": "Hawk Mountain Sanctuary"
                 },
                 {
-                    "logoPath": "img/LydaHill.png",
-                    "link": "https://lydahillfoundation.org",
-                    "title": "Lyda Hill"
-                },
-                {
                     "logoPath": "img/Mote.png",
                     "link": "https://mote.org",
                     "title": "Mote"
@@ -126,11 +121,6 @@
                     "logoPath": "img/ProNatura.png",
                     "link": "http://www.pronatura.org.mx",
                     "title": "ProNatura"
-                },
-                {
-                    "logoPath": "img/Shell.png",
-                    "link": "http://www.shell.com",
-                    "title": "Shell"
                 },
                 {
                     "logoPath": "img/TAMU.png",
