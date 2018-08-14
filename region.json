@@ -86,6 +86,101 @@
                     "logoPath": "img/Esri_logo.png",
                     "link": "http://esri.com",
                     "title": "Esri"
+                },
+                {
+                    "logoPath": "img/GCOOS.png",
+                    "link": "http://gcoos.org",
+                    "title": "GCOOS"
+                },
+                {
+                    "logoPath": "img/GuyHarvey.png",
+                    "link": "https://cnso.nova.edu/ghri/index.html",
+                    "title": "Guy Harvey"
+                },
+                {
+                    "logoPath": "img/Harte.png",
+                    "link": "https://www.harteresearchinstitute.org",
+                    "title": "Harte"
+                },
+                {
+                    "logoPath": "img/HawkMountainSanctuary.png",
+                    "link": "http://www.hawkmountain.org",
+                    "title": "Hawk Mountain Sanctuary"
+                },
+                {
+                    "logoPath": "img/LydaHill.png",
+                    "link": "https://lydahillfoundation.org",
+                    "title": "Lyda Hill"
+                },
+                {
+                    "logoPath": "img/Mote.png",
+                    "link": "https://mote.org",
+                    "title": "Mote"
+                },
+                {
+                    "logoPath": "img/NewCollegeFL.png",
+                    "link": "https://www.ncf.edu",
+                    "title": "New College FL"
+                },
+                {
+                    "logoPath": "img/ProNatura.png",
+                    "link": "http://www.pronatura.org.mx",
+                    "title": "ProNatura"
+                },
+                {
+                    "logoPath": "img/Shell.png",
+                    "link": "http://www.shell.com",
+                    "title": "Shell"
+                },
+                {
+                    "logoPath": "img/TAMU.png",
+                    "link": "http://www.wellsfisherieslab.com",
+                    "title": "TAMU"
+                },
+                {
+                    "logoPath": "img/UMiami_SharkResearch.png",
+                    "link": "https://sharkresearch.rsmas.miami.edu",
+                    "title": "UMiami Shark Research"
+                },
+                {
+                    "logoPath": "img/UniversidadAutonomadelCarmen.png",
+                    "link": "http://www.unacar.mx",
+                    "title": "Universidad Autonoma del Carmen"
+                },
+                {
+                    "logoPath": "img/UniversidadVeracruzana.png",
+                    "link": "https://www.uv.mx",
+                    "title": "Universidad Veracruzana"
+                },
+                {
+                    "logoPath": "img/USA.png",
+                    "link": "https://www.disl.org",
+                    "title": "USA"
+                },
+                {
+                    "logoPath": "img/USA_DauphinIslandSeaLab.png",
+                    "link": "https://www.disl.org",
+                    "title": "USA Dauphin Island Sea Lab"
+                },
+                {
+                    "logoPath": "img/USF_CMS.png",
+                    "link": "https://www.marine.usf.edu",
+                    "title": "USF CMS"
+                },
+                {
+                    "logoPath": "img/USM.png",
+                    "link": "http://gcrl.usm.edu/fisheries_center/index.php",
+                    "title": "USM"
+                },
+                {
+                    "logoPath": "img/USM_GCRL.png",
+                    "link": "http://gcrl.usm.edu/fisheries_center/index.php",
+                    "title": "USM GCRL"
+                },
+                {
+                    "logoPath": "img/YorkUniversity.png",
+                    "link": "https://www.yorku.ca/index.html",
+                    "title": "York University"
             }
         ]
     }
