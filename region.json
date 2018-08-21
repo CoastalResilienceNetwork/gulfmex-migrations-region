@@ -108,6 +108,11 @@
                     "title": "Hawk Mountain Sanctuary"
                 },
                 {
+                    "logoPath": "img/LydaHill.png",
+                    "link": "https://lydahillfoundation.org",
+                    "title": "Mote"
+                },
+                {
                     "logoPath": "img/Mote.png",
                     "link": "https://mote.org",
                     "title": "Mote"
@@ -121,6 +126,11 @@
                     "logoPath": "img/ProNatura.png",
                     "link": "http://www.pronatura.org.mx",
                     "title": "ProNatura"
+                },
+                {
+                    "logoPath": "img/Shell.png",
+                    "link": "https://www.shell.com",
+                    "title": "Mote"
                 },
                 {
                     "logoPath": "img/TAMU.png",
