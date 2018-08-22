@@ -31,14 +31,13 @@
         { "name": "Terrain"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Terrain_Base/MapServer" }
     ],
     "pluginOrder": [
-		"migratory-blueways",
-        "tuna-fisheries",
-        "regional-planning",
-        "zoom_to",
+	"migratory-blueways",
+	"tuna-fisheries",
+	"regional-planning",
+	"zoom_to",
         "measure",
         "legend_display",
         "full_extent"
-    
     ],
     "print": {
        "printServerUrl": "http://services.coastalresilience.org:6080/arcgis/rest/services/Utilities/PrintingTools/GPServer/Export%20Web%20Map%20Task",
@@ -54,12 +53,8 @@
    "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "identifyEnabled": true,
     "launchpad": {
-            "title": "Conservation for Migratory Blueways",
-            "description": "The Blueways Conservation Decision Support Tool offers a wide range of information about ocean resources and management. The focused apps and extensive spatial layers available are valuable tools for enhancing biodiversity, ecosystem-based management, and healthy human activity in the ocean. These resources may serve to support decision-making by marine planners, resource managers, commercial and recreational fishermen, and many other industries using the ocean.",
-            "infographic": {
-            "width": 900,
-            "height": 506
-            },
+            "title": "Marine Conservation",
+            "description": "The Blueways Conservation Decision Support Tool offers a wide range of information about ocean resources and management. The focused apps and extensive spatial layers available are valuable tools for enhancing biodiversity, ecosystem-based management, and healthy human activity in the ocean. These resources may serve to support decision-making by marine planners, resource managers, commercial and recreational fishermen, and many other industries using the ocean.<p>Learn more at <a href='http://www.migratoryblueways.org' target='_blank'>MigratoryBlueways.org</a></p><p>Suggested citation for this tool:</br> (App name), Blueways Conservation Decision Support Tool. The Nature Conservancy, November 2017. Web. Accessed (day month year). maps.bluewaysconservation.org </p><p>Suggested citation for a specific layer:</br> (Layer name). (App name), Blueways Conservation Decision Support Tool. The Nature Conservancy, November 2017. Data Sources: (metadata of layer). Web Accessed (day month year). maps.bluewaysconservation.org",
             "plugins": [
                 {
                     "title": "<img src='img/migratory_blueways.png' hspace=10>Energy Planning",
@@ -84,9 +79,104 @@
                     "title": "The Nature Conservancy"
                 },
                 {
-                    "logoPath": "img/Esri_logo_small.png",
+                    "logoPath": "img/Esri_logo.png",
                     "link": "http://esri.com",
                     "title": "Esri"
+                },
+                {
+                    "logoPath": "img/GCOOS.png",
+                    "link": "http://gcoos.org",
+                    "title": "GCOOS"
+                },
+                {
+                    "logoPath": "img/GuyHarvey.png",
+                    "link": "https://cnso.nova.edu/ghri/index.html",
+                    "title": "Guy Harvey"
+                },
+                {
+                    "logoPath": "img/Harte.png",
+                    "link": "https://www.harteresearchinstitute.org",
+                    "title": "Harte"
+                },
+                {
+                    "logoPath": "img/HawkMountainSanctuary.png",
+                    "link": "http://www.hawkmountain.org",
+                    "title": "Hawk Mountain Sanctuary"
+                },
+                {
+                    "logoPath": "img/LydaHill.png",
+                    "link": "https://lydahillfoundation.org",
+                    "title": "Lyda Hill"
+                },
+                {
+                    "logoPath": "img/Mote.png",
+                    "link": "https://mote.org",
+                    "title": "Mote"
+                },
+                {
+                    "logoPath": "img/NewCollegeFL.png",
+                    "link": "https://www.ncf.edu",
+                    "title": "New College FL"
+                },
+                {
+                    "logoPath": "img/ProNatura.png",
+                    "link": "http://www.pronatura.org.mx",
+                    "title": "ProNatura"
+                },
+                {
+                    "logoPath": "img/Shell.png",
+                    "link": "https://www.shell.com",
+                    "title": "Shell"
+                },
+                {
+                    "logoPath": "img/TAMU.png",
+                    "link": "http://www.wellsfisherieslab.com",
+                    "title": "TAMU"
+                },
+                {
+                    "logoPath": "img/UMiami_SharkResearch.png",
+                    "link": "https://sharkresearch.rsmas.miami.edu",
+                    "title": "UMiami Shark Research"
+                },
+                {
+                    "logoPath": "img/UniversidadAutonomadelCarmen.png",
+                    "link": "http://www.unacar.mx",
+                    "title": "Universidad Autonoma del Carmen"
+                },
+                {
+                    "logoPath": "img/UniversidadVeracruzana.png",
+                    "link": "https://www.uv.mx",
+                    "title": "Universidad Veracruzana"
+                },
+                {
+                    "logoPath": "img/USA.png",
+                    "link": "https://www.disl.org",
+                    "title": "USA"
+                },
+                {
+                    "logoPath": "img/USA_DauphinIslandSeaLab.png",
+                    "link": "https://www.disl.org",
+                    "title": "USA Dauphin Island Sea Lab"
+                },
+                {
+                    "logoPath": "img/USF_CMS.png",
+                    "link": "https://www.marine.usf.edu",
+                    "title": "USF CMS"
+                },
+                {
+                    "logoPath": "img/USM.png",
+                    "link": "http://gcrl.usm.edu/fisheries_center/index.php",
+                    "title": "USM"
+                },
+                {
+                    "logoPath": "img/USM_GCRL.png",
+                    "link": "http://gcrl.usm.edu/fisheries_center/index.php",
+                    "title": "USM GCRL"
+                },
+                {
+                    "logoPath": "img/YorkUniversity.png",
+                    "link": "https://www.yorku.ca/index.html",
+                    "title": "York University"
             }
         ]
     }
