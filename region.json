@@ -72,7 +72,7 @@
                 },
                 {
                     "title": "<img src='img/regional_marine_planning.png' hspace=10>Regional Marine Planning",
-                    "description": "What additional environmental, species, regulatory, habitat, and human activity spatial data is available? Regional Planning app, Blueways Conservation Decision Support Tool. The Nature Conservancy, November 2017.",
+                    "description": "What additional environmental, species, regulatory, habitat, and human activity spatial data is available?",
                     "pluginName": "regional-planning"
                 }
             ],
